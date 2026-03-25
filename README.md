@@ -21,6 +21,9 @@ Files:
 Task 3: Platforms Activity
 In this task, I explored social media platforms like Instagram and linkden. 
 I posted useful content and followed educational pages.
+Learned to make Google forms
+here's the link for it
+https://docs.google.com/forms/d/e/1FAIpQLSeYC0E72_3MwOfZKwTY7akCf-xEhO5gXGkyCNZ-oZMrM6PaYA/viewform?usp=publish-editor
 
  Files:
 - Screenshots  
